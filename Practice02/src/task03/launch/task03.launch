@@ -1,8 +1,5 @@
 <launch>
-  <arg name="service_name" default="/trigger_service" />
-
   <node pkg="task03" exec="trigger_proxy" name="trigger_proxy" output="screen">
     <param from="$(find-pkg-share task03)/config/task03.yaml" />
-    <param name="service_name" value="$(var service_name)" />
   </node>
 </launch>
