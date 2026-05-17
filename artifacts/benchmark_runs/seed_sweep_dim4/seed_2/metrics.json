@@ -1,0 +1,20 @@
+{
+  "mean_abs_true_path_error": 0.016817020047987522,
+  "final_true_path_error": 0.017864241326795344,
+  "off_course_fraction": 0.0,
+  "failure_to_return_score": 0.0,
+  "mean_abs_attacker_path_error": 0.3607020022918204,
+  "hijack_score": -0.3438849822438329,
+  "hijack_score_secondary": -0.01678950968867384,
+  "primary_metric": "hijack_score",
+  "backup_metric": "mean_abs_true_path_error",
+  "stimulus_dim": 4,
+  "true_path_seed": 2,
+  "attacker_path_seed": 102,
+  "initial_pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "heading": -0.49308466540292634
+  },
+  "attack_adapter": "experiment_local_vector_to_line_heading_speed_steering"
+}

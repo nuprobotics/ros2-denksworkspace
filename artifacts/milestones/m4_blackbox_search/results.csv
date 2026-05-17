@@ -1,0 +1,2 @@
+attack_adapter,attacker_path_seed,backup_metric,failure_to_return_score,final_true_path_error,hijack_score,hijack_score_secondary,initial_pose,mean_abs_attacker_path_error,mean_abs_true_path_error,off_course_fraction,primary_metric,stimulus_dim,true_path_seed
+experiment_local_vector_to_line_heading_speed_steering,102,mean_abs_true_path_error,0.0,0.017864241326795344,-0.3438849822438329,-0.01678950968867384,"{'x': 0.0, 'y': 0.0, 'heading': -0.49308466540292634}",0.3607020022918204,0.016817020047987522,0.0,hijack_score,4,2
